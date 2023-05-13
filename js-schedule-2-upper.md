@@ -1,5 +1,5 @@
 # JS Schedule
-# Part 2: DOM & ES6
+# Part 2: DOM & Asynchronous
 
 - HTML DOM (document object model)
   => Introduce
@@ -17,6 +17,7 @@
     => .innerText vs. .textContent
     => Get and Set `text` node
     => .innerHTML
+  => Vitual DOM
 
 - DOM style
   => .style.[CSSProperty] = 'CSSValue'
@@ -35,10 +36,6 @@
    => .addEventListener()
    => .removeEventListener()
 
-- JSON, Fetch & Restful API
-
-- Localstorage, Cookie & Session
-
 - ES6
   => Let & Const
   => Default parameter values in function
@@ -49,3 +46,19 @@
   => Not ES6 but special
     => Nullish coalescing (??)
     => AND operator (&&)
+
+- JSON
+  => JSON.pasre()
+  => JSON.stringify()
+
+- API, REST & RESTful API
+
+- Asynchronous
+
+- Recap about Callback
+
+- Promise
+
+- Async await
+
+- Fetch

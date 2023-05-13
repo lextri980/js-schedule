@@ -1,12 +1,13 @@
 # JS Schedule
 # Part 1: Introduce data types
 
-- Environment setting
+- Environment setting (NodeJS)
 
 - Using JS in HTML file
 
 - Declare variables and Comment
 	=> var, const, let
+  => Scoped & Hoisting
 
 - Built-in functions
 	=> console, alert, confirm, setTimeout, setInterval
