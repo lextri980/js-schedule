@@ -13,9 +13,9 @@
 	=> console, alert, confirm, setTimeout, setInterval
 
 - Operators
-  => Arithmetic (+  -  *  /  **  %  ++  --)
+  => Arithmetic (+  -  *  /  **  %)
   => String (+)
-  => Assignment (=  +=  -=  *=  /=  **=)
+  => Assignment (=  +=  -=  ++  --  *=  /=  **=)
   => Comparison (==  !=  >  <  >=  <=  ===  !==)
   => Logical (&&  ||  !)
   
