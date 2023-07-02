@@ -51,6 +51,7 @@
   => isNaN()
   => .toString()
   => .toFixed()
+  => Number()
 
 - Array type
   => Introduce (length)
