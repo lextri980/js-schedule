@@ -5,8 +5,6 @@
 
 - Closure
 
-- Localstorage, Cookie & Session
-
 - fn.bind(), fn.call(), & fn.apply()
 
 - Single thread & Event loop

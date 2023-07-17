@@ -5,7 +5,7 @@
   => Introduce
   => `document` node
   => `element` node
-    => id: <getElemenById>
+    => id: <getElementById>
     => class <getElementsByClassName>
     => HTML tag <getElementsByTagName>
     => CSS selector <querySelector> <querySelectorAll>
@@ -62,3 +62,5 @@
 - Async await
 
 - Fetch
+
+- Localstorage, Cookie & Session
