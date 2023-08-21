@@ -1,4 +1,5 @@
 # Vue Schedule
+# Part 1: Vue basic
 
 [AN - anotation]
 [SF - stand for]
@@ -51,7 +52,7 @@
   => Pass props to child component
   => Pass events to child component & emit to parent component
   => [is] attribute
-  => register local & global components
+  => Register local & global components
   => Custom events
     => [.native] modifier
     => [.sync] modifier
@@ -71,3 +72,7 @@
   => Custom directives (self-explore)
 
 - Vue router
+  => Set up router
+  => this.$route
+  => this.$router
+  => Router guard
