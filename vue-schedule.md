@@ -1,5 +1,8 @@
 # Vue Schedule
 
+[AN - anotation]
+[SF - stand for]
+
 - Installation
   => NodeJS
   => Vue CLI
