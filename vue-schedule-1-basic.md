@@ -68,7 +68,7 @@
 
 - Reusability
   => Mixins
-  => Plugins
+  => Plugins (self-explore)
   => Custom directives (self-explore)
 
 - Vue router
