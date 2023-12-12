@@ -35,4 +35,5 @@
   => Take params with useParams
   => Take query (string) with useLocation
   => Take query (object) with useLocation
+  => Layouts with Outlet
   => Router guard
