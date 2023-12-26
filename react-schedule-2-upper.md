@@ -3,6 +3,7 @@
 
 - Form handler
   => One way binding
+  => Controlled and Uncontrolled component
   => React hook form & Formik
     => register
     => handleSubmit
